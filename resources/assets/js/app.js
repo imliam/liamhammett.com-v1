@@ -40,6 +40,24 @@ const messages = [
         "Because I'm not dead yet! 💀",
         showGreeting,
         showTagline
+    ].
+    [
+        "",
+        "What did the nut say when it was chasing the other nut?",
+        "What?",
+        "Imma cashew"
+        ellipsis,
+        showGreeting,
+        showTagline
+    ],
+    [
+        "",
+        "What do you call a row of men waiting for a haircut?",
+        "I don't know, what?",
+        "A barbercue!",
+        ellipsis,
+        showGreeting,
+        showTagline
     ]
 ]
 
