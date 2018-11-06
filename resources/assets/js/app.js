@@ -21,7 +21,7 @@ const messages = [
         "Can you call me a taxi?",
         "You're a taxi. And I'm <div class='text-green-darker text-5xl font-extrabold tracking-wide'>LIAM</div>",
         [
-            `${ellipsis}<br><br>I'll think just get an Uber`,
+            `${ellipsis}<br><br>I think I'll just get an Uber`,
             `${ellipsis}<br><br>Maybe I should walk`,
             `${ellipsis}<br><br>I'll get my own cab then`
         ],
