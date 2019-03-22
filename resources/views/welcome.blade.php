@@ -53,7 +53,7 @@
             <div id="tagline" class="text-grey-lightest font-hairline hidden py-4">
                 <p>
                     <span id="greeting-small" class="hidden">Hi, I'm Liam.</span>
-                    I work at <a href="https://helmsquared.com/" class="text-grey no-underline hover:text-grey-lighter">Helm²</a> building ticketing software.
+                    I work at <a href="https://futureplc.com/" class="text-grey no-underline hover:text-grey-lighter">Future Publishing</a> helping to build a publishing platform.
                 </p>
                 <p class="text-sm pt-2">I also make a lot of awful jokes. Sorry about that.</p>
             </div>
